@@ -5,7 +5,7 @@
 - [No.92 反转链表 II](https://github.com/HuiruDong/leetcode-solution/issues/8)
 - [No.76 最小覆盖子串](https://github.com/HuiruDong/leetcode-solution/issues/7)
 - [No.148 排序链表](https://github.com/HuiruDong/leetcode-solution/issues/9)
-- [No.85 最大矩形](https://github.com/HuiruDong/leetcode-solution/issues/10)
+- [No.394 字符串解码](https://github.com/HuiruDong/leetcode-solution/issues/10)
 - [No.147 对链表进行插入排序](https://github.com/HuiruDong/leetcode-solution/issues/11)
 - [No.234 回文链表](https://github.com/HuiruDong/leetcode-solution/issues/12)
 - [No.51 N皇后](https://github.com/HuiruDong/leetcode-solution/issues/13)
